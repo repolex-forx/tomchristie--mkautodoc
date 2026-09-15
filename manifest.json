@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "tomchristie",
+  "repo": "mkautodoc",
+  "versions": [
+    {
+      "commit": "ad41abc4a94c4d63347e808ce6ca1dc0fb800bfb",
+      "parsed_at": "2026-09-15T21:00:56.154111+00:00",
+      "tag": "0.2.0",
+      "filetree": "filetree/ad41abc4a94c4d63347e808ce6ca1dc0fb800bfb.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/14d21f630a0aa5d27ab60f930aceceb56ceb1aba.nq.gz",
+        "blob/c364fb008d67e2860b70c4cf185f4ca4a0bbf8d5.nq.gz",
+        "blob/64fe7faa4bb37c5b6649d229b72c74c76aa72016.nq.gz",
+        "blob/f41bb9b7ac4e918528f49703bf4ea0e509cc9969.nq.gz",
+        "blob/5dcbe9665f6e6dc654f2fc49ae97589cfb3b66b1.nq.gz",
+        "blob/d2e50622bdd92c4709e4ce6f48790b3a4206d92c.nq.gz",
+        "blob/46003616fdad4f2917205f27615301015e56fd6c.nq.gz",
+        "blob/6999a47641543e199711926a7e6ec96df56b4995.nq.gz",
+        "blob/4f90226113aad2ca1b5f384f85ad84b6a0ee9bc4.nq.gz",
+        "blob/8a7d94cc171598af2275aae2a2f9fe512cdee5c9.nq.gz",
+        "blob/9295acb0fd96fc4a9234604ef921ce3c72ec28b3.nq.gz",
+        "blob/1afacd692fa3e2762178c5ef5f5e71bdf793e5bb.nq.gz",
+        "blob/52dccac56e79979445dd7d05c4f9c4db276046d5.nq.gz",
+        "blob/08f7ba871700a54ce4678ac2b0971ae11da213f3.nq.gz",
+        "blob/3a5d0edcf7ce5ced15a54b3a20ccdaa92d09c328.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
